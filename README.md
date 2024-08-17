@@ -1,2 +1,2 @@
 # TrajectoryBuilder
-See [https://ftc23511.github.io/trajectorybuilder](https://ftc23511.github.io/trajectorybuilder)
+See [https://ftc-23511.github.io/TrajectoryBuilder/](https://ftc-23511.github.io/TrajectoryBuilder/)
