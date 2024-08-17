@@ -1,0 +1,16 @@
+[book]
+authors = ["Arush"]
+language = "en"
+multilingual = false
+src = "src"
+title = "TrajectoryBuilder"
+
+[output.html.code.hidelines]
+java = "# "
+kt = "# "
+
+[output.html]
+mathjax-support = true
+site-url = "/TrajectoryBuilder/"
+git-repository-url = "https://github.com/FTC-23511/TrajectoryBuilder/tree/main"
+edit-url-template = "https://github.com/FTC-23511/TrajectoryBuilder/tree/main/{path}"
